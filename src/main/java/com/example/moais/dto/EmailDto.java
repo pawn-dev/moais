@@ -3,8 +3,6 @@ package com.example.moais.dto;
 import com.fasterxml.jackson.annotation.JsonProperty;
 import lombok.*;
 
-import java.sql.Timestamp;
-
 @Builder
 @Data
 @Getter
